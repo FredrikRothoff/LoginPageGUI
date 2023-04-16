@@ -7,7 +7,7 @@ This is a simple login page made with Java and Java Swing. Please note that this
 To get started, you will need to download the source code for the login page. You can do this by cloning the repository:
 
 ```
-git clone https://github.com/yourusername/java-login-page.git
+git clone git@github.com:Rothoff/LoginPageGUI.git
 ```
 Once you have the source code, you can compile and run the program in your preferred Java compiler. The main class is LoginPage.java, which you can run to start the program.
 
